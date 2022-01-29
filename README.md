@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://validacpf.netlify.app">Demo</a> -->
+<a href="https://valida-cpf-sigma.vercel.app/">Demo</a>
 </div>
 
 <h1 align="center">Valida CPF</h1>
@@ -60,8 +60,6 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 
 Made with :heart: by <a href="https://github.com/marinhoo" target="_blank">Matheus Marinho</a>
-
-Link do projeto: ...
 
 &#xa0;
 
